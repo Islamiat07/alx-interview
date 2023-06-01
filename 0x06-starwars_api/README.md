@@ -1,0 +1,2 @@
+README for starwars api
+AUTHOR: ISLAMIAT OKEDELE
