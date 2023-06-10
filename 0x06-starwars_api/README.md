@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AUTHOR: ISLAMIAT OKEDELE#
 ## 0x06. Star Wars API
 
@@ -8,3 +9,7 @@
 * You must use the [Star wars API](https://alx-intranet.hbtn.io/rltoken/ds__tvEZ4DuMVv5VKkRUCA)
 * You must use the `request` module
 
+=======
+README for starwars api
+AUTHOR: ISLAMIAT OKEDELE
+>>>>>>> ba8012cb92faa5abe2e58a95e1352d93f02f18fa
